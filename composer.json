@@ -1,0 +1,6 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^6.5",
+        "maykonn/codeigniter-predis": "^0.1.1"
+    }
+}
