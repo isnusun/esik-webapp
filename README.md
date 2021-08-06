@@ -12,4 +12,4 @@
 ## Lisensi 
 Lisensi aplikasi ini adalah GPLv3 sedangkan untuk komponen-komponen dan pustaka yg digunakan didalamnya sesuai dengan lisensi bawaanya. 
 
-
+[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://arcapada.work/)
